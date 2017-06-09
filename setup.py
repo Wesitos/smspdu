@@ -9,7 +9,7 @@ setup(
     name = "smspdu",
     version = "1.0.1-fixed",
     description = "SMS PDU encoding and decoding, including GSM-0338 character set",
-    long_description = __doc__.decode('utf8'),
+    long_description = __doc__,
     author = "Richard Jones",
     author_email = "rjones@ekit-inc.com",
     packages = ['smspdu'],
